@@ -4,7 +4,7 @@
  
  Clean up and condense a companies provided application code without changing the functionality of the webpage.
 
- In this project we tackled .html and .css code and used the "do not repeat yourself" or D.R.Y approach to clean up the code.
+ In this project we tackled .html and .css code and used the "do not repeat yourself" or D.R.Y approach to clean it up.
 
 
 ## Project Mock-Up
